@@ -1,0 +1,15 @@
+C:\notSystem\git\SawalkBot\Bot\bin\Debug\net7.0\Bot.exe
+C:\notSystem\git\SawalkBot\Bot\bin\Debug\net7.0\Bot.deps.json
+C:\notSystem\git\SawalkBot\Bot\bin\Debug\net7.0\Bot.runtimeconfig.json
+C:\notSystem\git\SawalkBot\Bot\bin\Debug\net7.0\Bot.dll
+C:\notSystem\git\SawalkBot\Bot\bin\Debug\net7.0\Bot.pdb
+C:\notSystem\git\SawalkBot\Bot\obj\Debug\net7.0\Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\notSystem\git\SawalkBot\Bot\obj\Debug\net7.0\Bot.AssemblyInfoInputs.cache
+C:\notSystem\git\SawalkBot\Bot\obj\Debug\net7.0\Bot.AssemblyInfo.cs
+C:\notSystem\git\SawalkBot\Bot\obj\Debug\net7.0\Bot.csproj.CoreCompileInputs.cache
+C:\notSystem\git\SawalkBot\Bot\obj\Debug\net7.0\Bot.sourcelink.json
+C:\notSystem\git\SawalkBot\Bot\obj\Debug\net7.0\Bot.dll
+C:\notSystem\git\SawalkBot\Bot\obj\Debug\net7.0\refint\Bot.dll
+C:\notSystem\git\SawalkBot\Bot\obj\Debug\net7.0\Bot.pdb
+C:\notSystem\git\SawalkBot\Bot\obj\Debug\net7.0\Bot.genruntimeconfig.cache
+C:\notSystem\git\SawalkBot\Bot\obj\Debug\net7.0\ref\Bot.dll
